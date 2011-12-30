@@ -1,0 +1,13 @@
+author: multitallented
+database: false
+description: HeroMoneyMarket lets you make your HeroStronghold super-region a publicly
+  traded, free-market economy where ownership goes to the highest bidder. Stock-market
+  money goes directly into your super-region's bank for limited use. Use stock to
+  vote on who gets portions of that money as well. Add and Kick members through voting
+  with stocks.
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: main.java.multitallented.plugins.heromoneymarket.Heromoneymarket
+name: HeroMoneyMarket
+startup: postworld
+url: http://dev.bukkit.org/server-mods/heromoneymarket/
+version: '0.1'
